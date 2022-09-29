@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealenginecourse\\ue5courseprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\cryptraidergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealenginecourse\\ue5courseprojects\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealenginecourse\\ue5courseprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "d:\\unrealenginecourse\\ue5courseprojects\\cryptraider\\source\\cryptraider\\cryptraidergamemode.h",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\epic\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unrealenginecourse\\ue5courseprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\cryptraidergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
